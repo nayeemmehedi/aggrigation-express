@@ -1,0 +1,179 @@
+[
+  {
+    "first_name": "Aloysius",
+    "last_name": "Jaxon",
+    "email": "ajaxon0@hexun.com",
+    "gender": "Male",
+    "role": "teacher",
+    "product": "milk",
+    "listOfBook": ["bangla", "english"],
+    "subBarance": {
+      "name": "bangla",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "dhaka",
+        "age": 20
+      }
+    ]
+  },
+  {
+    "first_name": "Herculie",
+    "last_name": "Monahan",
+    "email": "hmonahan1@ask.com",
+    "gender": "Male",
+    "role": "teacher",
+    "product": "milk",
+    "listOfBook": ["physics", "chemistry"],
+    "subBarance": {
+      "name": "english",
+      "description": "got it sir"
+    },
+    "activities": [
+      {
+        "home-town": "khulna",
+        "age": 33
+      }
+    ]
+  },
+  {
+    "first_name": "Nanette",
+    "last_name": "Harrhy",
+    "email": "nharrhy2@nsw.gov.au",
+    "gender": "Female",
+    "role": "teacher",
+    "product": "oil",
+    "listOfBook": ["biology", "economic"],
+    "subBarance": {
+      "name": "biology",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "barisal",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "first_name": "Mile",
+    "last_name": "Wyldes",
+    "email": "mwyldes3@unesco.org",
+    "gender": "Agender",
+    "role": "learner",
+    "product": "fish",
+    "listOfBook": ["math"],
+    "subBarance": {
+      "name": "math",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "Joshore",
+        "age": 50
+      }
+    ]
+  },
+  {
+    "first_name": "Sergent",
+    "last_name": "Shovelton",
+    "email": "sshovelton4@cloudflare.com",
+    "gender": "Male",
+    "role": "teacher",
+    "product": "fish",
+    "listOfBook": ["cse", "eee"],
+    "subBarance": {
+      "name": "bangla",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "dhaka",
+        "age": 90
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Braden",
+    "last_name": "Waith",
+    "email": "bwaith5@a8.net",
+    "gender": "Male",
+    "role": "learner",
+    "product": "fish",
+    "listOfBook": ["english"],
+    "activities": [
+      {
+        "home-town": "narail",
+        "age": 60
+      }
+    ],
+    "subBarance": {
+      "name": "bangla",
+      "description": "got it"
+    }
+  },
+  {
+    "id": 8,
+    "first_name": "Carleton",
+    "last_name": "MacIan",
+    "email": "cmacian7@google.com.hk",
+    "gender": "Male",
+    "role": "learner",
+    "product": "oil",
+    "listOfBook": ["physics"],
+    "subBarance": {
+      "name": "phydics",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "dhaka",
+        "age": 44
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "first_name": "Lynnea",
+    "last_name": "Mackrill",
+    "email": "lmackrill8@youtube.com",
+    "gender": "Female",
+    "role": "learner",
+    "product": "fish",
+    "listOfBook": ["bangla", "english"],
+    "subBarance": {
+      "name": "bangla",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "jhenaida",
+        "age": 75
+
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Jacinta",
+    "last_name": "Baldini",
+    "email": "jbaldini9@1und1.de",
+    "gender": "Agender",
+    "role": "learner",
+    "product": "milk",
+    "listOfBook": ["cse"],
+    "subBarance": {
+      "name": "bangla",
+      "description": "got it"
+    },
+    "activities": [
+      {
+        "home-town": "sylhet",
+        "age": 52
+
+      }
+    ]
+  }
+]
